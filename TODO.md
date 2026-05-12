@@ -1,0 +1,48 @@
+- [x] Asian Games
+  - [x] 2018
+  - [x] 2022
+- [x] World Championship Rifle / Pistol
+  - [x] 2023
+  - [x] 2022
+- [x] World Championship Shotgun
+  - [x] 2025
+  - [x] 2023
+  - [x] 2022
+- [x] World Cup Final
+  - [x] 2024
+  - [x] 2023
+- [x] Asian Championship
+  - [x] 2025
+  - [x] 2023
+- [x] Shooting Championship (Pistol)
+  - [x] 2024
+  - [x] 2023
+  - [x] 2022
+- [x] Shooting Championship (Rifle)
+  - [x] 2024
+  - [x] 2023
+  - [x] 2022
+- [x] Shooting Championship (Shotgun)
+  - [x] 2024
+  - [x] 2023
+  - [x] 2022
+- [x] National Shooting Championship (Pistol)
+  - [x] 2024
+  - [x] 2023
+  - [x] 2022
+- [ ] National Shooting Championship (Rifle)
+  - [ ] 2024
+  - [ ] 2023
+  - [ ] 2022
+- [ ] National Shooting Championship (Shotgun)
+  - [ ] 2024
+  - [ ] 2023
+  - [ ] 2022
+- [ ] National Games of India
+  - [ ] 2025
+  - [ ] 2023
+  - [ ] 2022
+- [ ] Khelo Indian Youth Games
+  - [ ] 2025
+  - [ ] 2024
+  - [ ] 2022
